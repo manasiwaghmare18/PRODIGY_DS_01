@@ -25,5 +25,5 @@ Thank you for reviewing my submission!
 📬 Contact
 For any inquiries or feedback regarding this project, please contact:
 
-Mansi Waghmare (LinkedIn)
+Manasi Waghmare (LinkedIn)
 Email: manasiwaghmare18@gmail.com

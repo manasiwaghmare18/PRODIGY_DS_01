@@ -5,25 +5,26 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 Dataset
 The dataset used for this task is world_population_dataset. This dataset contains records of population from the year 2001 to 2023.
 
-Tools and Libraries used
+**Tools and Libraries used**
 Jupyter notebook
 Pandas
 Numpy
 Matplotlip & Seaborn for visualization
 Exploratory Data Analysis (EDA)
-During the EDA process, I performed the following steps:
 
-Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+**During the EDA process, I performed the following steps:**
 
-Visualization: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
+**Data Cleaning:** Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
 
-Conclusion
+**Visualization:** Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
+
+**Conclusion**
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!
 
-📬 Contact
+**📬 Contact**
 For any inquiries or feedback regarding this project, please contact:
 
 Manasi Waghmare (LinkedIn)
-Email: manasiwaghmare18@gmail.com
+**Email: ** manasiwaghmare18@gmail.com
